@@ -1,4 +1,4 @@
-# Team of developers
+# Developers Team
 
 #### IT-Academy
 
